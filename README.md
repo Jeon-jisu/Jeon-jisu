@@ -3,6 +3,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnjeon0119)](https://solved.ac/wltnjeon0119)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=wltnjeon0119&theme=warm)
+
 
 
 - 🌱 I’m currently learning { python, C++, C, flutter }
