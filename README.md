@@ -1,5 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome_to_Jisu_github&animation=fadeIn&fontSize=40&animation=fadeIn&fontColor=F67280)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnjeon0119)](https://solved.ac/wltnjeon0119)
 
@@ -7,7 +5,8 @@
 
 
 
-- 🌱 I’m currently learning { python, C++, C, flutter }
+- I’m currently learning { python, C++, C, flutter, Django }
+- I'm interested in {Computer Vision, Multimodal, NLP }
 - My Blog: [https://moonshot-til.tistory.com/]
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
